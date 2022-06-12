@@ -1,0 +1,10 @@
+This is my operating system that I am going to work on with (hopefully) the help from some other friends.
+
+What does this operating system do?
+This operating system will boot and load into dolphin and then (once i figure it out) optionally load the dolphin menu or the wii menu. When the Wii menu loads the main dolphin window will be running in the background.
+
+How does it work?
+As of right now, I don't really know. It has an Ubuntu 20.04 LTS base so it will be stable and secure.
+
+When can I get it?
+I also don't have an answer for that question.
